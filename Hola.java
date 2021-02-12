@@ -4,7 +4,9 @@ public class Hola {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-	
+
+		//prueba para GIT
+
 		/*
 		for (int i = 0; i <= 10; i++)
 		{
@@ -16,16 +18,16 @@ public class Hola {
 				System.out.println(j);
 				}
 		}
-		
+
  		*/
-		
-		int a = 6; 
+
+		int a = 6;
 		int b = 10;
 		System.out.println( minimo( a, b ) );
-		
+
 	}
 	/*
-	 * con public static hacemos una funcion global como en C, 
+	 * con public static hacemos una funcion global como en C,
 	 * pero en Java no interesa escribir funciones como en C muy a menudo
 	 */
 	public static int minimo( int x, int y )
